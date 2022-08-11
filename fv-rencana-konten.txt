@@ -2,9 +2,11 @@ Rencana Konten FV
 -Javascript
 *ES6
 *Framework Javascript
-^Angular
+^Vue
 ^React
+-Fundamental Data Dasar
 -PHP Framework
 ^Laravel
 -Interview
 -Vlog
+-Phyton
