@@ -3,6 +3,7 @@ Rencana Konten FV
 *ES6
 *Framework Javascript
 ^Vue
+^React
 -Fundamental Data Dasar
 -PHP Framework
 ^Laravel
